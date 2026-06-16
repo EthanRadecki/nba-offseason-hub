@@ -2,7 +2,7 @@
 
 > Annual NBA offseason analysis — salary tables, draft capital, areas for improvement, and road maps for all 30 teams.
 
-**Live site:** `https://yourusername.github.io/nba-offseason-hub`
+**Live site:** `https://EthanRadecki.github.io/nba-offseason-hub`
 
 ---
 
