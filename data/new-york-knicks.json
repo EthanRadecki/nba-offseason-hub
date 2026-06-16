@@ -1,0 +1,92 @@
+{
+  "team": "New York Knicks",
+  "record": "51 - 31",
+
+  "offRating": 118.42,
+  "offRatingRank": "5th",
+  "defRating": 114.34,
+  "defRatingRank": "13th",
+  "netRating": 4.09,
+  "netRatingRank": "8th",
+
+  "salaryTable": [
+    { "name": "Karl-Anthony Towns",  "y1": "$53,142,264", "y2": "$57,078,728", "y3": "$61,015,192", "flag": null },
+    { "name": "OG Anunoby",          "y1": "$39,568,966", "y2": "$42,500,000", "y3": "$45,431,034", "flag": null },
+    { "name": "Jalen Brunson",       "y1": "$34,944,001", "y2": "$37,739,521", "y3": "$40,535,041", "flag": null },
+    { "name": "Mikal Bridges",       "y1": "$24,900,000", "y2": null,          "y3": null,          "flag": null },
+    { "name": "Josh Hart",           "y1": "$19,472,240", "y2": "$20,923,760", "y3": "$22,375,280", "flag": "team" },
+    { "name": "Mitchell Robinson",   "y1": "$12,954,546", "y2": null,          "y3": null,          "flag": null },
+    { "name": "Miles McBride",       "y1": "$4,333,333",  "y2": "$3,956,523",  "y3": null,          "flag": null },
+    { "name": "PJ Tucker",           "y1": "$3,468,960",  "y2": null,          "y3": null,          "flag": "team" },
+    { "name": "Pacome Dadiet",       "y1": "$2,847,600",  "y2": "$2,983,680",  "y3": "$5,373,608",  "flag": "player" },
+    { "name": "Tyler Kolek",         "y1": "$2,191,897",  "y2": "$2,296,271",  "y3": "$2,486,995",  "flag": null },
+    { "name": "Ariel Hukporti",      "y1": "$1,955,377",  "y2": null,          "y3": null,          "flag": "team" },
+    { "name": "Totals",              "y1": "$199,779,184","y2": "$167,478,483","y3": "$177,217,150", "flag": null }
+  ],
+
+  "restrictedFA": [
+    "MarJon Beauchamp",
+    "Anton Watson",
+    "Kevin McCullar"
+  ],
+
+  "unrestrictedFA": [
+    { "name": "Precious Achiuwa",  "bird": true,  "nonBird": false },
+    { "name": "Landry Shamet",     "bird": true,  "nonBird": false },
+    { "name": "Delon Wright",      "bird": false, "nonBird": true  },
+    { "name": "Cameron Payne",     "bird": false, "nonBird": true  }
+  ],
+
+  "draftCapital": [
+    { "year": "2025", "round": "2nd", "via": "MEM",                           "protection": "None" },
+    { "year": "2026", "round": "1st", "via": "NYK",                           "protection": "None" },
+    { "year": "2026", "round": "1st", "via": "WAS",                           "protection": "1-10" },
+    { "year": "2026", "round": "2nd", "via": "Least Fav of MIL/ORL/DET",     "protection": "None" },
+    { "year": "2026", "round": "2nd", "via": "NYK",                           "protection": "None" },
+    { "year": "2027", "round": "2nd", "via": "NYK",                           "protection": "None" },
+    { "year": "2028", "round": "1st", "via": "Least Fav of NYK/BKN",         "protection": "None" },
+    { "year": "2028", "round": "2nd", "via": "BOS",                           "protection": "31-45" },
+    { "year": "2028", "round": "2nd", "via": "Least Fav of IND/PHX",         "protection": "None" },
+    { "year": "2030", "round": "1st", "via": "NYK",                           "protection": "None" },
+    { "year": "2032", "round": "1st", "via": "NYK",                           "protection": "None" },
+    { "year": "2032", "round": "2nd", "via": "NYK",                           "protection": "None" }
+  ],
+
+  "areasForImprovement": [
+    { "area": "Defensive Rating",    "rank": 13, "label": "13th in the league" },
+    { "area": "Rebounding",          "rank": 18, "label": "18th in total reb" },
+    { "area": "3-Point Attempts",    "rank": 22, "label": "22nd in 3PA/game"   },
+    { "area": "Turnover Rate",       "rank": 17, "label": "17th in TOV%"       },
+    { "area": "Bench Scoring",       "rank": 20, "label": "20th in bench pts"  }
+  ],
+  "improvementNarrative": "The Knicks were an elite offensive team in 2024/25 — <strong>5th in offensive rating</strong> — but their defense held them back from true contender status. Finishing 13th defensively is a concern given their cap commitments. Rebounding and bench depth are the two areas most likely to be addressed this offseason.",
+
+  "roadmapMoves": [
+    {
+      "type": "signing",
+      "description": "Re-sign Precious Achiuwa on a team-friendly deal (2yr / $18M).",
+      "note": "Versatile big who provides defensive insurance behind KAT and Robinson."
+    },
+    {
+      "type": "trade",
+      "description": "Explore moving Mikal Bridges in a package for a starting-caliber center.",
+      "note": "Bridges' $24.9M expiring contract has real value as an attractor piece."
+    },
+    {
+      "type": "draft",
+      "description": "Use the WAS 1st round pick (top-10 protected) if it conveys.",
+      "note": "Target a switchable wing or a rim-running big depending on trade activity."
+    },
+    {
+      "type": "waive",
+      "description": "Waive PJ Tucker (team option, $3.47M) to open a roster spot.",
+      "note": "Tucker is 39 — the roster spot is more valuable than his on-court contribution."
+    },
+    {
+      "type": "extension",
+      "description": "Lock up Tyler Kolek on a rookie extension before his RFA window opens.",
+      "note": "Kolek is the long-term backup PG of the future — secure him cheaply now."
+    }
+  ],
+  "roadmapNarrative": "The Knicks enter 2026 as an <strong>offensive juggernaut with a defensive ceiling</strong>. The core of Brunson, Anunoby, and KAT is locked in and expensive — this offseason is about finding value at the margins. Their real leverage is Mikal Bridges' expiring deal and a deep draft capital sheet. If the WAS pick conveys outside the top 10, expect Thibodeau to use it aggressively in a trade. The window is open — but only if they solve the defensive rebounding problem."
+}
